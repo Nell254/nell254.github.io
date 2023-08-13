@@ -2436,5 +2436,24 @@ input, select, textarea {
 					#copyright li:first-child {
 						margin-top: 0;
 					}
+					
 
 	}
+
+	/* Other CSS rules */
+
+/* Add the .svg-container styling */
+.svg-container {
+    display: inline-block; /* Maintain inline-block layout */
+    width: 6em; /* Set desired width */
+    height: 6em; /* Set desired height */
+}
+
+/* Additional CSS rules */
+/* Change the color of the SVG icon to pink */
+.svg-container svg {
+    fill: #EA8A95; /* Set the desired color */
+}
+
+
+	
