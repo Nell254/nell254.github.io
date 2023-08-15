@@ -1990,21 +1990,21 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #242424;
+			background-color: #000000;
 		}
 
 		.wrapper.style2 {
-			background-color: #242424;
+			background-color: #000000;
 			/* text-shadow: 1px 1px 0px #fff; */
 		}
 
 		.wrapper.style3 {
-			background-color: #242424;
+			background-color: #000000;
 			/* text-shadow: 1px 1px 0px #fff; */
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #000000;
 			color: #fff;
 			/* text-shadow: 1px 1px 0px #fff; */
 		}
